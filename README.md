@@ -48,7 +48,6 @@ The **Support Vector Classifier (SVC)** provided the highest accuracy in predict
 ## 📂 Repository Contents
 
 * `Churn Analysis.ipynb`: The main Jupyter Notebook containing all the data cleaning, EDA, preprocessing, model training, and evaluation code.
-* `data/churn data set`: (Implied path) The raw dataset used for the project.
 
 ## ⚙️ How to Run the Project
 
